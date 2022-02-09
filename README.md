@@ -1,2 +1,2 @@
-# Belajar-Branching
-Belajar branching github
+# Belajar-Git
+Belajar Git & github
