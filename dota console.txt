@@ -1,0 +1,1 @@
+-noforcemaccel -noforcemspd -useforcedmparms -high -console -novid -prewarm
